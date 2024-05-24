@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huyho\\source\\repos\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A423B4-A4AB-4586-B3B1-DB6F42E5FA07}|Lab3_3\\Lab3_3.csproj|c:\\users\\huyho\\source\\repos\\lab3\\lab3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A423B4-A4AB-4586-B3B1-DB6F42E5FA07}|Lab3_3\\Lab3_3.csproj|solutionrelative:lab3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4E43F7-AD12-4FCA-8FCC-C691EEB33A90}|Lab3\\Lab3.csproj|c:\\users\\huyho\\source\\repos\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4E43F7-AD12-4FCA-8FCC-C691EEB33A90}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD27397-4B4B-4E4D-9CF3-64A3EA35BDC0}|Lab3_2\\Lab3_2.csproj|c:\\users\\huyho\\source\\repos\\lab3\\lab3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD27397-4B4B-4E4D-9CF3-64A3EA35BDC0}|Lab3_2\\Lab3_2.csproj|solutionrelative:lab3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huyho\\source\\repos\\Lab3\\Lab3_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_3\\Program.cs",
+              "ToolTip": "C:\\Users\\huyho\\source\\repos\\Lab3\\Lab3_3\\Program.cs",
+              "RelativeToolTip": "Lab3_3\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:43:54.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huyho\\source\\repos\\Lab3\\Lab3_2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_2\\Program.cs",
+              "ToolTip": "C:\\Users\\huyho\\source\\repos\\Lab3\\Lab3_2\\Program.cs",
+              "RelativeToolTip": "Lab3_2\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:41:33.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huyho\\source\\repos\\Lab3\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\huyho\\source\\repos\\Lab3\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIA6wBsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:38:42.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
